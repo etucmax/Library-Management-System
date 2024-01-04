@@ -1,7 +1,7 @@
 # Library-Management-System
 # Data_Structure_And_Algorithms
 
-PASS: admin
+PASSWORD: admin
 
 This is my project in Data Stucture & Algorithms. In this project i use Linkedlist and Stack
 This system is made in C++ console based application.
